@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hoangthanhtungcalculator/static/css/main.5bf063b9.css",
+    "main.js": "/hoangthanhtungcalculator/static/js/main.e8165a32.js",
+    "index.html": "/hoangthanhtungcalculator/index.html",
+    "main.5bf063b9.css.map": "/hoangthanhtungcalculator/static/css/main.5bf063b9.css.map",
+    "main.e8165a32.js.map": "/hoangthanhtungcalculator/static/js/main.e8165a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf063b9.css",
+    "static/js/main.e8165a32.js"
+  ]
+}
